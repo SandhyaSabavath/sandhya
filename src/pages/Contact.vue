@@ -3,7 +3,7 @@
     <h2>Contact</h2>
     <div class="social-links">
       <div class="social-link">
-        <a href="" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/sandhya-sabavath-93389521a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
           <img src="~/assets/linkedin.jpg" alt="LinkedIn" />
         </a>
         <p>LinkedIn</p>
